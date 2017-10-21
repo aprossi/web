@@ -29,17 +29,17 @@ body {
 }
 .display-2 {
   font-family: 'Lato', sans-serif;
-  font-size: 3rem;
+  font-size: 2.6rem;
 }
 .display-2 > .mbr-iconfont {
-  font-size: 4.8rem;
+  font-size: 4.16rem;
 }
 .display-4 {
   font-family: 'Lato', sans-serif;
-  font-size: 1rem;
+  font-size: 0.8rem;
 }
 .display-4 > .mbr-iconfont {
-  font-size: 1.6rem;
+  font-size: 1.28rem;
 }
 .display-5 {
   font-family: 'Rubik', sans-serif;
@@ -67,14 +67,14 @@ body {
     line-height: calc( 1.4 * (2.1374999999999997rem + (4.25 - 2.1374999999999997) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-2 {
-    font-size: 2.4rem;
-    font-size: calc( 1.7rem + (3 - 1.7) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.7rem + (3 - 1.7) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 2.08rem;
+    font-size: calc( 1.56rem + (2.6 - 1.56) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.56rem + (2.6 - 1.56) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-4 {
-    font-size: 0.8rem;
-    font-size: calc( 1rem + (1 - 1) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1rem + (1 - 1) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 0.64rem;
+    font-size: calc( 0.93rem + (0.8 - 0.93) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (0.93rem + (0.8 - 0.93) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-5 {
     font-size: 1.2rem;
@@ -1338,6 +1338,9 @@ body {
   height: auto;
   min-height: 100vh;
 }
+.cid-quWX2zO9vc H1 {
+  text-align: center;
+}
 .cid-quZEqSe7GK {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -2338,6 +2341,7 @@ body {
 }
 .cid-qv7YFBa2SM .mbr-text {
   color: #232323;
+  text-align: left;
 }
 .cid-qv7YFBa2SM .mbr-author-desc {
   display: block;
@@ -2772,6 +2776,7 @@ body {
 }
 .cid-qv8bubQvLT .mbr-text {
   color: #232323;
+  text-align: left;
 }
 .cid-qv8bubQvLT .mbr-author-desc {
   display: block;
